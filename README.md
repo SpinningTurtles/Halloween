@@ -29,6 +29,6 @@ Lade till en knapp så man kan komma tillbaka till menyn.
 Gjorde tunnlarna större. de var väldigt små.
 
 
-Inga problem.
+Litet problem med storleken på maze'ns tunnel storlek.
 
 
