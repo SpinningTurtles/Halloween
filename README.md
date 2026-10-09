@@ -9,7 +9,7 @@ vill göra något som jag inte har sett på länge. (maze spelet)
 
 Målet är att göra ett maze spel.
 
-kommer använda AI (Claude/Chatgpt), html och css samt javascript
+kommer använda AI (Claude/Chatgpt), html och css
 
 Steg 1
 sätt up grunden.
