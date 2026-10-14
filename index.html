@@ -118,7 +118,7 @@ function draw(){
  if(state==='MENU'||state==='SETTINGS'||state==='DONE'){
   if(state==='MENU'){text('Steady Hand Maze',150,38,OR);text('Stay inside the path. Three levels.',195,18,WH);}
   if(state==='SETTINGS'){text('Settings',100,34,OR);text('Kitten mode swaps the final scare for a kitten.',138,15,WH);}
-  if(state==='DONE'){text(cfg.kitten?'Good kitty.':'Gotcha.',150,38,OR);text(cfg.kitten?'You made it through all three levels.':'Nobody gets through level 3 calmly.',195,18,WH);}
+  if(state==='DONE'){text(cfg.kitten?'Good job.':'Gotcha.',150,38,OR);text(cfg.kitten?'You made it through all three levels.':'Nobody gets through level 3 calmly.',195,18,WH);}
   buttons().forEach(function(b){drawBtn(b);});
   ctx.restore();return;
  }
