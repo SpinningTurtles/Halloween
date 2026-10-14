@@ -32,4 +32,5 @@ Gjorde tunnlarna större. de var väldigt små.
 Litet problem med storleken på maze'ns tunnel storlek.
 Fråga claude om att sätta in en bild fil och ljud fil och att de används i korrekt tid.
 Satte in en bild och två ljudfiler.
-
+Bytte en liten dal av texten.
+jag tror att jag e klar.
